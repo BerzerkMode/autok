@@ -5,3 +5,11 @@ export function legjobb(){
 export function igaz(){
     return true;
 }
+
+export function hamis(){
+    return false;
+}
+
+export function sajt(){
+    console.log("Szeretem a sajtot! :)");
+}

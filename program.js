@@ -8,5 +8,10 @@ console.log("Függvények");
 legjobb();
 legjobb();
 
+console.log("Az enyem függvények:");
+
+
+
+
 console.log("Kész.");
 
